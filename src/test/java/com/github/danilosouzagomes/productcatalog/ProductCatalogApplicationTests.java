@@ -1,10 +1,10 @@
-package com.github.danilosouzagomes.product_catalog_api;
+package com.github.danilosouzagomes.productcatalog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductCatalogApiApplicationTests {
+class ProductCatalogApplicationTests {
 
 	@Test
 	void contextLoads() {

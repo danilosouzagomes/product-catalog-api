@@ -1,13 +1,13 @@
-package com.github.danilosouzagomes.product_catalog_api;
+package com.github.danilosouzagomes.productcatalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProductCatalogApiApplication {
+public class ProductCatalogApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProductCatalogApiApplication.class, args);
+		SpringApplication.run(ProductCatalogApplication.class, args);
 	}
 
 }
